@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou dev Full Stack PHP pela Plantae.<br>Estou sempre estudando algo, esse é meu maior hobby.<br>Amo ensinar e ajudar quem eu poço.
+Sou dev Full Stack PHP pela Plantae.<br>Estou sempre estudando algo, esse é meu maior hobby.<br>Amo ensinar e ajudar quem eu posso.
 
 
 ## 🌐 Socials:
